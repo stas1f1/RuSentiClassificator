@@ -7,6 +7,9 @@ dataset which was translated to russian with help of Yandex Cloud Translate API.
 
 Model is able to recognise un-emotional speech and 27 categories of emotions
 
+Pre-trained model weights available [here](
+https://drive.google.com/drive/folders/1-09VNNqAQ0uuwEZz6so6eiL85cVNzDAy?usp=sharing)
+
 Examples:
 ---
 
