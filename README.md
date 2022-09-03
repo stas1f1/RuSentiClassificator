@@ -7,43 +7,12 @@ dataset which was translated to russian with help of Yandex Cloud Translate API.
 
 Model is able to recognise un-emotional speech and 27 categories of emotions
 
+Pre-trained model weights available [here](
+https://drive.google.com/drive/folders/1-09VNNqAQ0uuwEZz6so6eiL85cVNzDAy?usp=sharing)
+
 Examples:
 ---
-Ужасный сервис. Висит все утро, почините хоть что-то! : 
- отвращение
- 
-Добрый день, спасибо за быструю помощь! : 
- благодарность
- 
-Что вы собираетесь сделать по этому поводу? : 
- любопытство
- 
-Мне ничего не понятно из вашего объяснения : 
- замешательство
- 
-Крайне жаль что так произошло : 
- угрызение совести
- 
-Честно говоря, я расстроен работой вашей службы поддержки : 
- разочарование
- 
- : 
- нейтральность
- 
-УРА, ВСЕ ВОССТАНОВИЛОСЬ : 
- восхищение
- 
-Ну и сколько мне еще ждать вашего ответа, м? : 
- любопытство
- 
-Жаль потраченного времени. : 
- разочарование
- 
-Да ну вас всех к черту : 
- злость
- 
-О господи : 
- удивление
- 
-ВЫ ЧТО ИЗДЕВАЕТЕСЬ?! ВЕРНИТЕ МНЕ ДЕНЬГИ НЕМЕДЛЕННО! : 
- злость
+
+<p align="center">
+  <img src="https://github.com/stas1f1/SentiChallenge/blob/main/example.png" width="500" title="hover text">
+</p>
