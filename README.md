@@ -9,6 +9,7 @@ Model is able to recognise un-emotional speech and 27 categories of emotions
 
 Examples:
 ---
+
 <p align="center">
-  <https://github.com/stas1f1/SentiChallenge/blob/main/example.png" width="800" title="hover text">
+  <https://github.com/stas1f1/SentiChallenge/blob/main/example.png" width="500" title="hover text">
 </p>
