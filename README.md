@@ -11,5 +11,5 @@ Examples:
 ---
 
 <p align="center">
-  <https://github.com/stas1f1/SentiChallenge/blob/main/example.png" width="500" title="hover text">
+  <img src="https://github.com/stas1f1/SentiChallenge/blob/main/example.png" width="800" title="hover text">
 </p>
